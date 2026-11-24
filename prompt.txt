@@ -1,0 +1,1 @@
+Write one single-line joke about office life, at most 200 characters, funny enough that an AI judge picks it over other office jokes in a head-to-head comparison. The joke should be relatable to anyone who works in an office, need no explanation, and land on its own punchline.
